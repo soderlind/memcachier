@@ -16,7 +16,7 @@ This initial release is only tested with WordPress at [AppFog](https://www.appfo
 Demo at [memcachier.soderlind.no](http://memcachier.soderlind.no)
 
 = Credits =
-I've only changed the WP_Object_Cache constructor, so the credits goes to ryan and sivel, and ronnywang for [PHPMemcacheSASL](https://github.com/ronnywang/PHPMemcacheSASL)
+I've only [changed the WP_Object_Cache constructor](http://soderlind.no/archives/2012/12/19/memcachier-backend-for-the-wp-object-cache/), so the credits goes to ryan and sivel, and ronnywang for [PHPMemcacheSASL](https://github.com/ronnywang/PHPMemcacheSASL)
 
 == Installation ==
 1. Add [MemCachier](https://www.appfog.com/products/appfog/add-ons/) to your WordPress site at AppFog 
