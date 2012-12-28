@@ -11,7 +11,8 @@ Use MemCachier to implement WP Object Cache
 
 Changed the [Memcached WP Object Cache](http://wordpress.org/extend/plugins/memcached/) backend to use [MemCachier](http://www.memcachier.com/).
 
-This initial release is only tested with WordPress at [AppFog](https://www.appfog.com/products/appfog/jumpstarts/)
+This initial release is only tested with WordPress at [AppFog](https://www.appfog.com/products/appfog/jumpstarts/), but [should work on other sites](http://www.memcachier.com/2012/12/19/memcachier-powered-wordpress-object-caching/).
+
 
 Demo at [memcachier.soderlind.no](http://memcachier.soderlind.no)
 
