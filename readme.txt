@@ -14,8 +14,6 @@ Changed the [Memcached WP Object Cache](http://wordpress.org/extend/plugins/memc
 This initial release is only tested with WordPress at [AppFog](https://www.appfog.com/products/appfog/jumpstarts/), but [should work on other sites](http://www.memcachier.com/2012/12/19/memcachier-powered-wordpress-object-caching/).
 
 
-Demo at [memcachier.soderlind.no](http://memcachier.soderlind.no)
-
 = Credits =
 I've only [changed the WP_Object_Cache constructor](http://soderlind.no/archives/2012/12/19/memcachier-backend-for-the-wp-object-cache/), so the credits goes to ryan and sivel for [Memcached WP Object Cache](http://wordpress.org/extend/plugins/memcached/), and ronnywang for [PHPMemcacheSASL](https://github.com/ronnywang/PHPMemcacheSASL)
 
